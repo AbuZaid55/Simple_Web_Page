@@ -6,7 +6,7 @@ simple design
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![localhost_3000_index html](https://github.com/AbuZaid55/Simple_Web_Page/assets/115403447/4b9bb68e-6080-41cd-96f5-81e2732f52c1)
 
 
 ## 🔗 Links
